@@ -3,13 +3,7 @@
 Stand: 2026-08-15 · Tickets: 11
 
 
-## in_review (1)
-
-| ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
-|---|---|---|---|---|---|---|
-| [T-0011](tickets/T-0011.md) | DR: G4 Sprint 1 + P5-Abnahme (Baseline p5-v1.0) | decision-request | pl | hoch | 1 | — |
-
-## done (10)
+## done (11)
 
 | ID | Titel | Typ | Rolle | Prio | Sprint | blockiert durch |
 |---|---|---|---|---|---|---|
@@ -22,4 +16,5 @@ Stand: 2026-08-15 · Tickets: 11
 | [T-0007](tickets/T-0007.md) | MAN.3: Sprint-1-Planning — PM-Gründung + Probelauf + Abnahme | task | pl | hoch | 1 | — |
 | [T-0008](tickets/T-0008.md) | E4: PM-Team-Repo `pm` gegründet (Charter, SLAs, Kanban, Klasse-B-Log, Registry aktiv) | task | cm | hoch | 1 | — |
 | [T-0009](tickets/T-0009.md) | E5: Verträglichkeit board/Discovery/Cockpit mit sprintlosem Kanban-Betrieb — Befund: kompatibel | task | test | hoch | 1 | — |
+| [T-0011](tickets/T-0011.md) | DR: G4 Sprint 1 + P5-Abnahme (Baseline p5-v1.0) | decision-request | pl | hoch | 1 | — |
 | [T-0010](tickets/T-0010.md) | K3: Template-Probelauf — Muster-Team-Repo (Trockenlauf) besteht board-check | task | cm | mittel | 1 | — |
